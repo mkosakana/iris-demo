@@ -20,7 +20,7 @@ $ cd go-iris-template
 
 ## Getting Start
 
-### ・ _example-basic-view/
+### /_example-basic-view/
 
 Run:
 
@@ -34,7 +34,7 @@ or
 $ cd _example-basic-views && make setup
 ```
 
-### ・_example-mvc-api/
+### /_example-mvc-api/
 
 Run:
 
